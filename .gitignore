@@ -77,5 +77,4 @@ src/static
 
 media_post
 
-vscode
-vscode/settings.json
+.vscode/
