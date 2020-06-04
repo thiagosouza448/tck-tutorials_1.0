@@ -76,3 +76,5 @@ target/
 src/static
 
 media_post
+
+.vscode
